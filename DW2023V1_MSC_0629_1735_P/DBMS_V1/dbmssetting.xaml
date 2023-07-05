@@ -1,0 +1,153 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DBMS_V1"
+      xmlns:c1="http://schemas.componentone.com/winfx/2006/xaml" x:Class="DBMS_V1.dbmssetting"
+      mc:Ignorable="d" 
+     d:DesignHeight="900" d:DesignWidth="1640"
+      Title="dbmssetting"
+    xmlns:c1FlexGrid="clr-namespace:C1.WPF.FlexGrid;assembly=C1.WPF.FlexGrid.4.6.2">
+    <Page.Resources>
+        <SolidColorBrush x:Key="_RowBackground" Color="White"/>
+        <SolidColorBrush x:Key="_AlternatingRowBackground" Color="White"/>
+        <SolidColorBrush x:Key="_HeaderGridLinesBrush" Color="#323a47"/>
+        <Color x:Key="MouseOverColor">#FFBFE1EA</Color>
+        <SolidColorBrush x:Key="_GridLinesBrush" Color="#FFF0F0F0"/>
+        <SolidColorBrush x:Key="MouseOverBrush" Color="{StaticResource MouseOverColor}"/>
+        <SolidColorBrush x:Key="_FrozenLinesBrush" Color="#E0000000"/>
+        <SolidColorBrush x:Key="_GroupRowBackground" Color="#E0E4E4E4"/>
+        <SolidColorBrush x:Key="_CursorBackground" Color="#FFBADDE9"/>
+        <SolidColorBrush x:Key="_SelectionBackground" Color="#A0BADDE9"/>
+        <SolidColorBrush x:Key="MarqueeColor" Color="Black"/>
+        <Color x:Key="_gradFrom">#F0FAFAFA</Color>
+        <Color x:Key="_gradTo">#F0DBDBDB</Color>
+        <LinearGradientBrush x:Key="_RowHeaderBackground" EndPoint="1.5,0">
+            <GradientStop Color="{StaticResource _gradFrom}" Offset="0"/>
+            <GradientStop Color="{StaticResource _gradTo}" Offset="1"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="_ColumnHeaderBackground" EndPoint="0,1">
+            <GradientStop Color="{StaticResource _gradFrom}" Offset="0"/>
+            <GradientStop Color="{StaticResource _gradTo}" Offset="1"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="_TopLeftCellBackground" EndPoint="1,1">
+            <GradientStop Color="{StaticResource _gradFrom}" Offset="0"/>
+            <GradientStop Color="{StaticResource _gradTo}" Offset="1"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="_BottomRightCellBackground" EndPoint="1,1">
+            <GradientStop Color="{StaticResource _gradTo}" Offset="0"/>
+            <GradientStop Color="{StaticResource _gradFrom}" Offset="1"/>
+        </LinearGradientBrush>
+        <Style x:Key="C1FlexGridStyle1" TargetType="{x:Type c1FlexGrid:C1FlexGrid}">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="RowBackground" Value="{StaticResource _RowBackground}"/>
+            <Setter Property="AlternatingRowBackground" Value="{StaticResource _AlternatingRowBackground}"/>
+            <Setter Property="HeaderGridLinesBrush" Value="{StaticResource _HeaderGridLinesBrush}"/>
+            <Setter Property="GridLinesBrush" Value="{StaticResource _GridLinesBrush}"/>
+            <Setter Property="FrozenLinesBrush" Value="{StaticResource _FrozenLinesBrush}"/>
+            <Setter Property="GroupRowBackground" Value="{StaticResource _GroupRowBackground}"/>
+            <Setter Property="CursorBackground" Value="{StaticResource _CursorBackground}"/>
+            <Setter Property="SelectionBackground" Value="{StaticResource _SelectionBackground}"/>
+            <Setter Property="RowHeaderBackground" Value="{StaticResource _RowHeaderBackground}"/>
+            <Setter Property="ColumnHeaderBackground" Value="{StaticResource _ColumnHeaderBackground}"/>
+            <Setter Property="TopLeftCellBackground" Value="{StaticResource _TopLeftCellBackground}"/>
+            <Setter Property="BottomRightCellBackground" Value="{StaticResource _BottomRightCellBackground}"/>
+            <Setter Property="MarqueeColor" Value="{StaticResource MarqueeColor}"/>
+            <Setter Property="MouseOverBrush" Value="{StaticResource MouseOverBrush}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type c1FlexGrid:C1FlexGrid}">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                            <Grid x:Name="_root">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <ScrollBar x:Name="_sbV" Grid.Column="2" Orientation="Vertical" Grid.RowSpan="3"/>
+                                <ScrollBar x:Name="_sbH" Grid.ColumnSpan="2" Orientation="Horizontal" Grid.Row="3"/>
+                            </Grid>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <StackPanel Height="850" Width="815" Margin="824,46,01,0" Background="white">
+            <Label Margin="0,0,0,0" Content="로그" FontFamily="Noto Sans"/>
+            <ListBox x:Name="LogList" Background="LightGray" FontSize="14" FontFamily="Noto Sans" Height="810" ScrollViewer.HorizontalScrollBarVisibility="Auto" Width="820"/>
+        </StackPanel>
+        
+        <StackPanel Height="420" Width="815" Margin="0,46,820,434" Background="white">
+            <Label Content="DBMS 설정(내부) 설정" FontFamily="Noto Sans" Margin="0,0,0,0"/>
+            <c1FlexGrid:C1FlexGrid Style="{DynamicResource C1FlexGridStyle1}" x:Name="inDbmsSetting" FontSize="14" Width="820" HeadersVisibility="Column" AutoGenerateColumns="False" ColumnHeaderBackground="#323a47" ColumnHeaderForeground="#ffffff" AllowDragging="None" AllowResizing="None" FontFamily="Noto Sans">
+                <c1FlexGrid:C1FlexGrid.Columns  >
+                    <c1FlexGrid:Column Binding="{Binding no}" Width="10*" HorizontalAlignment="center" HeaderHorizontalAlignment="center" IsReadOnly="True"/>
+                    <c1FlexGrid:Column Binding="{Binding name}" Width="35*" HorizontalAlignment="center" HeaderHorizontalAlignment="center" IsReadOnly="True"/>
+                    <c1FlexGrid:Column Binding="{Binding type}" Width="20*" HorizontalAlignment="center" HeaderHorizontalAlignment="center" IsReadOnly="True"/>
+                    <c1FlexGrid:Column Binding="{Binding ip}" Width="30*" HorizontalAlignment="center" HeaderHorizontalAlignment="center" IsReadOnly="True"/>
+                    <c1FlexGrid:Column Binding="{Binding event}" Width="25*" HorizontalAlignment="center" HeaderHorizontalAlignment="center">
+                        <c1FlexGrid:Column.CellTemplate>
+                            <DataTemplate>
+
+                                <Button Content="연결상태확인" Background="#FFC359" Width="139" Click="btnDbmsOpen_Click"/>
+
+                            </DataTemplate>
+                        </c1FlexGrid:Column.CellTemplate>
+                    </c1FlexGrid:Column>
+                    <c1FlexGrid:Column  Width="25*" HorizontalAlignment="center" HeaderHorizontalAlignment="center">
+                        <c1FlexGrid:Column.CellTemplate>
+                            <DataTemplate>
+
+                                <Button Content="포트상태확인" Background="#FFC359"  Width="139" Click="btnPortChaeck_Click"/>
+
+                            </DataTemplate>
+                        </c1FlexGrid:Column.CellTemplate>
+                    </c1FlexGrid:Column>
+                </c1FlexGrid:C1FlexGrid.Columns>
+            </c1FlexGrid:C1FlexGrid>
+        </StackPanel>
+        <Label Content="DBMS 관리" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top" Height="50" Width="190" FontSize="18" FontWeight="Bold" FontFamily="Noto Sans" Foreground="#FF656565"/>
+
+        <StackPanel Height="420" Width="815" Margin="0,475,822,0" Background="white">
+            <Label Content="DBMS 설정(외부)" FontFamily="Noto Sans" Margin="0,0,0,0"/>
+            <c1FlexGrid:C1FlexGrid x:Name="outDbmsSetting" Style="{DynamicResource C1FlexGridStyle1}"  FontSize="14" Width="820" HeadersVisibility="Column" AutoGenerateColumns="False"  ColumnHeaderBackground="#323a47" ColumnHeaderForeground="#ffffff" AllowDragging="None" AllowResizing="None" FontFamily="Noto Sans">
+                <c1FlexGrid:C1FlexGrid.Columns  >
+                    <c1FlexGrid:Column Binding="{Binding no}" Width="15*" HorizontalAlignment="center" HeaderHorizontalAlignment="center" IsReadOnly="True"/>
+                    <c1FlexGrid:Column Binding="{Binding name}" Width="25*" HorizontalAlignment="center" HeaderHorizontalAlignment="center" IsReadOnly="True"/>
+                    <c1FlexGrid:Column Binding="{Binding type}" Width="25*" HorizontalAlignment="center" HeaderHorizontalAlignment="center" IsReadOnly="True"/>
+                    <c1FlexGrid:Column Binding="{Binding ip}" Width="30*" HorizontalAlignment="center" HeaderHorizontalAlignment="center" IsReadOnly="True"/>
+                    <c1FlexGrid:Column Binding="{Binding event}" Width="25*" HorizontalAlignment="center" HeaderHorizontalAlignment="center">
+                        <c1FlexGrid:Column.CellTemplate>
+                            <DataTemplate>
+
+                                <Button Content="연결상태확인" Background="#FFC359" Width="139" />
+
+                            </DataTemplate>
+                        </c1FlexGrid:Column.CellTemplate>
+                    </c1FlexGrid:Column>
+                    <c1FlexGrid:Column  Width="25*" HorizontalAlignment="center" HeaderHorizontalAlignment="center">
+                        <c1FlexGrid:Column.CellTemplate>
+                            <DataTemplate>
+
+                                <Button Content="포트상태확인" Background="#FFC359" Width="139" />
+
+                            </DataTemplate>
+                        </c1FlexGrid:Column.CellTemplate>
+                    </c1FlexGrid:Column>
+                </c1FlexGrid:C1FlexGrid.Columns>
+            </c1FlexGrid:C1FlexGrid>
+        </StackPanel>
+
+       
+    </Grid>
+</Page>

@@ -1,0 +1,150 @@
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\DWDBMS_V1.exe.config
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\DWDBMS_V1.exe
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\DWDBMS_V1.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\BouncyCastle.Crypto.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\C1.WPF.4.6.2.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\C1.WPF.FlexGrid.4.6.2.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\Google.Protobuf.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\K4os.Compression.LZ4.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\K4os.Hash.xxHash.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\MySql.Data.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\System.Buffers.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\System.Memory.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\System.Numerics.Vectors.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\ZstdNet.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\BouncyCastle.Crypto.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\C1.WPF.4.6.2.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\C1.WPF.FlexGrid.4.6.2.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\Google.Protobuf.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\Google.Protobuf.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\K4os.Compression.LZ4.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\K4os.Hash.xxHash.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\MySql.Data.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\System.Buffers.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\System.Memory.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\System.Numerics.Vectors.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\ar\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\cs\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\da\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\de\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\el\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\es\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\fi\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\fr\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\he\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\it\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\ja\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\ko\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\nl\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\no\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\pl\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\pt\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\ro\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\ru\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\sk\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\sv\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\tr\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\zh\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\bin\Release\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.csproj.AssemblyReference.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.csproj.SuggestedBindingRedirects.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\dbmssetting.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\MainWindow.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\Page1.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\App.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1_Content.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1_MarkupCompile.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1_MarkupCompile.lref
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\dbmssetting.baml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\MainWindow.baml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\Page1.baml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.g.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.Properties.Resources.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.csproj.GenerateResource.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.exe.licenses
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.csproj.CoreCompileInputs.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.csproj.CopyComplete
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.exe
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWDBMS\obj\Release\DWDBMS_V1.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\DWDBMS_V1.exe.config
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\DWDBMS_V1.exe
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\DWDBMS_V1.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\BouncyCastle.Crypto.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\C1.WPF.4.6.2.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\C1.WPF.FlexGrid.4.6.2.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\Google.Protobuf.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\K4os.Compression.LZ4.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\K4os.Hash.xxHash.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\MySql.Data.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\System.Buffers.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\System.Memory.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\System.Numerics.Vectors.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\ZstdNet.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\BouncyCastle.Crypto.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\C1.WPF.4.6.2.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\C1.WPF.FlexGrid.4.6.2.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\Google.Protobuf.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\Google.Protobuf.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\K4os.Compression.LZ4.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\K4os.Hash.xxHash.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\MySql.Data.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\System.Buffers.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\System.Memory.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\System.Numerics.Vectors.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\ar\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\cs\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\da\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\de\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\el\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\es\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\fi\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\fr\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\he\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\it\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\ja\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\ko\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\nl\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\no\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\pl\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\pt\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\ro\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\ru\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\sk\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\sv\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\tr\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\zh\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\bin\Release\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.csproj.SuggestedBindingRedirects.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\dbmssetting.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\MainWindow.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\Page1.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\App.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1_Content.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\dbmssetting.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\MainWindow.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\Page1.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.exe.licenses
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.csproj.CopyComplete
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.exe
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWDBMS\obj\Release\DWDBMS_V1.pdb

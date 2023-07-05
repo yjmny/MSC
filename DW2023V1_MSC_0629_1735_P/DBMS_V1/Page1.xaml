@@ -1,0 +1,82 @@
+﻿<Page x:Class="DBMS_V1.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DBMS_V1"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1820"
+      Title="Page1">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"></RowDefinition>
+            <RowDefinition Height="60*"></RowDefinition>
+            <RowDefinition Height="20*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" x:Name="btnConnection" HorizontalAlignment="Right" Content="연결테스트 확인" Height="80" Margin="0,70,50,0" VerticalAlignment="Top" Width="200" Click="btnConnection_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10" />
+                    </Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="FontSize" Value="20" />
+                        <Setter Property="Background" Value="DarkOliveGreen" />
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Grid.Column="1" x:Name="btnDisconnection" HorizontalAlignment="Left" Content="연결OFF테스트 확인"  Height="80" Margin="50,70,0,0" VerticalAlignment="Top" Width="200" Click="btnDisconnection_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10" />
+                    </Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="FontSize" Value="20" />
+                        <Setter Property="Background" Value="DarkOliveGreen" />
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80*" />
+                <RowDefinition Height="20*" />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Border Grid.Row="0" Grid.Column="0" BorderBrush="Black" BorderThickness="1" Margin="0,0,1,1">
+                    <TextBox x:Name="tbSql1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" TextWrapping="Wrap" Text="Sql edit"/>
+                </Border>
+                <Border Grid.Row="0" Grid.Column="1" BorderBrush="Black" BorderThickness="1" Background="White" Margin="0,0,4,1" >
+                    <TextBlock x:Name="tbSql2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" TextWrapping="Wrap" Text="Sql Result" />
+                </Border>
+            </Grid>
+            <Button Grid.Row="1" x:Name="btnRunSql" Content="SQL 실행(RUD)" HorizontalAlignment="Center" Height="70" VerticalAlignment="Center" Width="200" Click="btnRunSql_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10" />
+                    </Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="FontSize" Value="20" />
+                        <Setter Property="Background" Value="DarkOliveGreen" />
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+        <StatusBar Grid.Row="2" Width="400" Height="100">
+            <Label x:Name="lblStatus1" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" Content="Label" FontSize="20" HorizontalContentAlignment="Center"/>
+        </StatusBar>
+    </Grid>
+</Page>

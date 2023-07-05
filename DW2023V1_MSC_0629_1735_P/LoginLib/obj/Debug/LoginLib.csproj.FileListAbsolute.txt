@@ -1,0 +1,304 @@
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\LoginLib.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\LoginLib.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\LoginLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\DeviceChecker.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.csproj.SuggestedBindingRedirects.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.FrmLogin.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.exe.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\LoginLib\obj\Debug\LoginLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\LoginLib.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\LoginLib.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\LoginLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\DeviceChecker.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.csproj.SuggestedBindingRedirects.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.FrmLogin.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.exe.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC\LoginLib\obj\Debug\LoginLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\LoginLib.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\LoginLib.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\LoginLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\DeviceChecker.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.csproj.SuggestedBindingRedirects.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.FrmLogin.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.exe.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\LoginLib\obj\Debug\LoginLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\LoginLib.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\LoginLib.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\LoginLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\DeviceChecker.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.csproj.SuggestedBindingRedirects.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.FrmLogin.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.exe.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\LoginLib\obj\Debug\LoginLib.pdb

@@ -1,0 +1,101 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DBMS_V1.Data.MSC
+{
+    public class Tbl_recipe
+    {
+        public Tbl_recipe() { }
+        
+        public string rcpno;//` int NOT NULL AUTO_INCREMENT COMMENT '레시피 순번 기본키',
+        public string mbno;//` int DEFAULT NULL COMMENT '사용자 순번(FK)',
+        public string stdidlist;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT 'net set' COMMENT '표준시편 ID 리스트',
+        public string reqmbidlist;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT 'net set' COMMENT '의뢰자 ID 리스트',
+        public string reqsampleidlist;//` varchar(200) DEFAULT 'net set' COMMENT '의뢰자샘플 ID 리스트',
+        public string id;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '레시피 ID',
+        public string name;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '레시피명',
+        public string benchmarkvalue;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '레시피기준값',
+        public string max;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '레시피 최대값',
+        public string min;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '레시피 최소값',
+        public string marginoferror;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '레시피 허용오차',
+        public string unit;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '레시피 표시 단위',
+        public string regdate;//` datetime DEFAULT NULL COMMENT '레시피 등록일자',
+        public string updatedate;//` datetime DEFAULT CURRENT_TIMESTAMP COMMENT '레시피 변경일자',
+        public string stdid1;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '표준시편 ID1',
+        public string stdid2;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '표준시편 ID2',
+        public string stdid3;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '표준시편 ID3',
+        public string stdid4;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '표준시편 ID4',
+        public string stdid5;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '표준시편 ID5',
+        public string stdid6;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '표준시편 ID6',
+       
+        public string reqsampleid;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '의뢰자샘플 ID1',
+      
+        public string notusedate;//` datetime DEFAULT NULL COMMENT '레시피사용안함등록일자(미삭제)',
+        public string useyn;//` int DEFAULT '1' COMMENT '레시피사용여부(미사용0,사용1)',
+        public string stdno;//` int NOT NULL COMMENT '표준시편 순번(FK)',
+        public string reqsampleno;//` int NOT NULL COMMENT '의뢰자샘플 순번(FK)',
+        public string reqmbno;//` int NOT NULL COMMENT '의뢰자 맴버순번(FK)',
+        public string use10;//` int DEFAULT NULL COMMENT '레시피 사용여부',
+        public string method;
+        public string reqmbname;
+        public string mtime;//측정시간(기본값:3600) 단위:sec
+        public string roidiameter;//측정직경(기본값:60) 단위:mm
+        public string pattern;//선택한 패턴번호
+        public string settemp;//정치모드 온도 설정값
+        public string sethumi;//정치모드 습도 설정값
+        public string calibid;
+
+        public string reqmbid1;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '의뢰자 ID1',
+        public string reqmbid2;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '의뢰자 ID2',
+        public string reqmbid3;//` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '의뢰자 ID3',
+        public string reqmbid4;
+        public string reqmbid5;
+        public string reqmbid6;
+        public string reqmbid7;
+        public string reqmbid8;
+        public string reqmbid9;
+        public string reqmbid10;
+        public string reqmbid11;
+        public string reqmbid12;
+        public string reqmbname1;
+        public string reqmbname2;
+        public string reqmbname3;
+        public string reqmbname4;
+        public string reqmbname5;
+        public string reqmbname6;
+        public string reqmbname7;
+        public string reqmbname8;
+        public string reqmbname9;
+        public string reqmbname10;
+        public string reqmbname11;
+        public string reqmbname12;
+        public string reqsampleid1;
+        public string reqsampleid2;
+        public string reqsampleid3;
+        public string reqsampleid4;
+        public string reqsampleid5;
+        public string reqsampleid6;
+        public string reqsampleid7;
+        public string reqsampleid8;
+        public string reqsampleid9;
+        public string reqsampleid10;
+        public string reqsampleid11;
+        public string reqsampleid12;
+        public string reqsamplename1;
+        public string reqsamplename2;
+        public string reqsamplename3;
+        public string reqsamplename4;
+        public string reqsamplename5;
+        public string reqsamplename6;
+        public string reqsamplename7;
+        public string reqsamplename8;
+        public string reqsamplename9;
+        public string reqsamplename10;
+        public string reqsamplename11;
+        public string reqsamplename12;
+    }
+
+}

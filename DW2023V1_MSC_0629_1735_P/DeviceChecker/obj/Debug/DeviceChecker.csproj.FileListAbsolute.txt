@@ -1,0 +1,280 @@
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\DeviceChecker.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\obj\Debug\DeviceChecker.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\obj\Debug\DeviceChecker.FrmCommCheck.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\obj\Debug\DeviceChecker.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\obj\Debug\DeviceChecker.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\obj\Debug\DeviceChecker.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\obj\Debug\DeviceChecker.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\obj\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DeviceChecker\obj\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\DeviceChecker.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\obj\Debug\DeviceChecker.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\obj\Debug\DeviceChecker.FrmCommCheck.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\obj\Debug\DeviceChecker.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\obj\Debug\DeviceChecker.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\obj\Debug\DeviceChecker.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\obj\Debug\DeviceChecker.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\obj\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DeviceChecker\obj\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\DeviceChecker.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\obj\Debug\DeviceChecker.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\obj\Debug\DeviceChecker.FrmCommCheck.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\obj\Debug\DeviceChecker.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\obj\Debug\DeviceChecker.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\obj\Debug\DeviceChecker.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\obj\Debug\DeviceChecker.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\obj\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DeviceChecker\obj\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\DeviceChecker.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\DeviceChecker.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\obj\Debug\DeviceChecker.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\obj\Debug\DeviceChecker.FrmCommCheck.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\obj\Debug\DeviceChecker.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\obj\Debug\DeviceChecker.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\obj\Debug\DeviceChecker.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\obj\Debug\DeviceChecker.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\obj\Debug\DeviceChecker.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DeviceChecker\obj\Debug\DeviceChecker.pdb

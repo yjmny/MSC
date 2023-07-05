@@ -1,0 +1,10 @@
+﻿<FileList>
+  <File Reference="C1.WPF.FlexGrid.4.6.2.dll"
+  >
+      <ToolboxItems VSCategory="C1 WPF Controls" BlendCategory="C1 WPF Controls">
+	      <Item Type = "C1.WPF.FlexGrid.C1FlexGrid"/>
+	      <Item Type = "C1.WPF.FlexGrid.C1FlexComboBox"/>
+	    </ToolboxItems>
+   	
+  </File>
+</FileList>

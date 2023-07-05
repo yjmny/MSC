@@ -1,0 +1,52 @@
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\NetworkLib\obj\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\NetworkLib\obj\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\NetworkLib\obj\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\NetworkLib\obj\Debug\NetworkLib.pdb

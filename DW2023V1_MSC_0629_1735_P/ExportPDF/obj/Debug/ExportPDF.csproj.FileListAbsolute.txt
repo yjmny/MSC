@@ -1,0 +1,324 @@
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ExportPDF.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ExportPDF.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ExportPDF.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.Win.4.5.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.Win.FlexChart.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\itextsharp.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.Win.C1DX.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.Win.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.Win.FlexChart.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\itextsharp.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.Win.C1DX.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.Win.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.FrmMain.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.SaveChart.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.dll.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\ExportPDF\obj\Debug\ExportPDF.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ExportPDF.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ExportPDF.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ExportPDF.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.Win.4.5.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.Win.FlexChart.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\itextsharp.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.Win.C1DX.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.Win.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.Win.FlexChart.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\itextsharp.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.Win.C1DX.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.Win.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.FrmMain.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.SaveChart.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.dll.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\ExportPDF\obj\Debug\ExportPDF.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ExportPDF.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ExportPDF.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ExportPDF.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.Win.4.5.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.Win.FlexChart.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\itextsharp.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.Win.C1DX.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.Win.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.Win.FlexChart.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\itextsharp.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.Win.C1DX.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.Win.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.FrmMain.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.SaveChart.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.dll.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\ExportPDF\obj\Debug\ExportPDF.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ExportPDF.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ExportPDF.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ExportPDF.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.Win.4.5.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.Win.FlexChart.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\itextsharp.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.Win.C1DX.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.Win.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.Win.FlexChart.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\itextsharp.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.Win.C1DX.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.Win.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.FrmMain.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.SaveChart.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.dll.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\ExportPDF\obj\Debug\ExportPDF.pdb

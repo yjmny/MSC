@@ -1,0 +1,13 @@
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\bin\Debug\Network.dll
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\bin\Debug\Network.pdb
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network.csproj.AssemblyReference.cache
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network_MarkupCompile.cache
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network_MarkupCompile.lref
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network.g.resources
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network.Properties.Resources.resources
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network.csproj.GenerateResource.cache
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network.csproj.CoreCompileInputs.cache
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network.dll
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Network.pdb

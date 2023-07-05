@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{91AED7E6-23B5-4521-A78C-72345C9ACFDE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DoMeasureMSC</RootNamespace>
+    <AssemblyName>DoMeasureMSC</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo_256.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.4.8, Version=4.8.20231.596, Culture=neutral, PublicKeyToken=944ae1ea0e47ca04, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1DX.4.8, Version=4.8.20231.596, Culture=neutral, PublicKeyToken=944ae1ea0e47ca04, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1FlexGrid.4.8, Version=4.8.20231.596, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Input.4.8, Version=4.8.20231.596, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.FlexChart.4.8, Version=4.8.20231.596, Culture=neutral, PublicKeyToken=3aa2920c09e0aefd, processorArchitecture=MSIL" />
+    <Reference Include="ItachiUIBunifu">
+      <HintPath>..\..\..\WindowsFormsApp1\bin\Debug\ItachiUIBunifu.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.15\lib\net45\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\RoundBorderPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ucComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ucComboBox.Designer.cs">
+      <DependentUpon>ucComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\GridButtonClass.cs" />
+    <Compile Include="Data\RecipeUiClass.cs" />
+    <Compile Include="Data\ReqMemberClass.cs" />
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DBMSController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\DBMSController.Designer.cs">
+      <DependentUpon>DBMSController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\HMIController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\HMIController.Designer.cs">
+      <DependentUpon>HMIController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MeasureManagePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\MeasureManagePage.Designer.cs">
+      <DependentUpon>MeasureManagePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PlcCalibraionPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PlcCalibraionPage.Designer.cs">
+      <DependentUpon>PlcCalibraionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PatternManagePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PatternManagePage.Designer.cs">
+      <DependentUpon>PatternManagePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PLCController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PLCController.Designer.cs">
+      <DependentUpon>PLCController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecipeWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecipeWindow.Designer.cs">
+      <DependentUpon>RecipeWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.Designer.cs">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pages\RequesterManagePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\RequesterManagePage.Designer.cs">
+      <DependentUpon>RequesterManagePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RequesterSampleManagePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\RequesterSampleManagePage.Designer.cs">
+      <DependentUpon>RequesterSampleManagePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\UserManagePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\UserManagePage.Designer.cs">
+      <DependentUpon>UserManagePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\RecipeManagePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\RecipeManagePage.Designer.cs">
+      <DependentUpon>RecipeManagePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucTextBox.Designer.cs">
+      <DependentUpon>ucTextBox.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Controls\ucComboBox.resx">
+      <DependentUpon>ucComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\DBMSController.resx">
+      <DependentUpon>DBMSController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\HMIController.resx">
+      <DependentUpon>HMIController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\MeasureManagePage.resx">
+      <DependentUpon>MeasureManagePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PlcCalibraionPage.resx">
+      <DependentUpon>PlcCalibraionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PatternManagePage.resx">
+      <DependentUpon>PatternManagePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PLCController.resx">
+      <DependentUpon>PLCController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\RecipeManagePage.resx">
+      <DependentUpon>RecipeManagePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\RequesterSampleManagePage.resx">
+      <DependentUpon>RequesterSampleManagePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\UserManagePage.resx">
+      <DependentUpon>UserManagePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="RecipeWindow.resx">
+      <DependentUpon>RecipeWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResetPassword.resx">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Pages\RequesterManagePage.resx">
+      <DependentUpon>RequesterManagePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucTextBox.resx">
+      <DependentUpon>ucTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoMeasureMSC.gclicx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DashBoard\DashBoard.csproj">
+      <Project>{49ed25e0-3e41-46af-a5d7-e8ebea8fe207}</Project>
+      <Name>DashBoard</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBMS_V1\DBMS_V1.csproj">
+      <Project>{d884c7a0-d224-48e6-a42d-363ce3cb7031}</Project>
+      <Name>DBMS_V1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DoAnalysisMSC\DoAnalysisMSC.csproj">
+      <Project>{8c388d7a-6aa8-4d04-be03-52e9a31a9cf3}</Project>
+      <Name>DoAnalysisMSC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DwLib\DwLib.csproj">
+      <Project>{395eee5d-4054-405a-9413-c80c017dad76}</Project>
+      <Name>DwLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EventLog\EventLog.csproj">
+      <Project>{368af9df-c2e7-4f80-affb-6a0f583d430d}</Project>
+      <Name>EventLog</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ExportPDF\ExportPDF.csproj">
+      <Project>{c0f99645-3aa0-4b83-abef-c5ad54d4ae48}</Project>
+      <Name>ExportPDF</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMI_TEMI2500\DWTEMI2500\HMI_TEMI2500.csproj">
+      <Project>{6829f38d-1d61-401d-8cd5-75e7cf9509db}</Project>
+      <Name>HMI_TEMI2500</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LoginLib\LoginLib.csproj">
+      <Project>{4a533c5b-4064-42df-acfa-9c747fdd5393}</Project>
+      <Name>LoginLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NetworkLib\NetworkLib.csproj">
+      <Project>{52944403-3263-4588-86d5-310d44a59cf3}</Project>
+      <Name>NetworkLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PlcLSE_V1\PlcLSE_V1.csproj">
+      <Project>{d59aaca6-3109-4b99-9ddb-690651df5c0a}</Project>
+      <Name>PlcLSE_V1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logowhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_status.png" />
+    <None Include="Resources\icon_m1_30.png" />
+    <None Include="Resources\icon_m2_30.png" />
+    <None Include="Resources\icon_R1_30.png" />
+    <None Include="Resources\icon_R2_30.png" />
+    <None Include="Resources\icon_R3_30.png" />
+    <None Include="Resources\icon_B1_30.png" />
+    <None Include="Resources\icon_D2_30.png" />
+    <None Include="Resources\icon_D3_30.png" />
+    <None Include="Resources\icon_D4_30.png" />
+    <None Include="Resources\icon_D5_30.png" />
+    <Content Include="logo_256.ico" />
+    <None Include="Resources\logo-removebg-preview.png" />
+    <Content Include="Resources\icon_b2_30.png" />
+    <Content Include="Resources\icon_b2_50.png" />
+    <Content Include="Resources\icon_b3_30.png" />
+    <Content Include="Resources\icon_logout_40.png" />
+    <None Include="Resources\icon_logout_40_1.png" />
+    <Content Include="Resources\logo_35.png" />
+    <Content Include="Resources\plc.png" />
+    <Content Include="Resources\winmin.png" />
+    <Content Include="Resources\win_close.png" />
+    <Content Include="Resources\win_close3.png" />
+    <None Include="Resources\win_close31.png" />
+    <Content Include="Resources\win_close_icon.png" />
+    <Content Include="Resources\win_max.png" />
+    <Content Include="Resources\win_max1.png" />
+    <Content Include="Resources\win_min.png" />
+    <None Include="Resources\win_min1.png" />
+    <Content Include="Resources\win_min2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

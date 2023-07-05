@@ -1,0 +1,168 @@
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\KS.exe.config
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\KS.exe
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\KS.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\C1.WPF.4.6.2.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWLOGIN_V1.exe
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\log4net.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWEVENTLOG_V1.exe
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\MySql.Data.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWDBMS_V1.exe
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWLib.exe
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\Google.Protobuf.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\ZstdNet.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\BouncyCastle.Crypto.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\System.Memory.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\C1.WPF.FlexGrid.4.6.2.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\System.Buffers.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\K4os.Compression.LZ4.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\K4os.Hash.xxHash.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\System.Numerics.Vectors.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWLOGIN_V1.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWLOGIN_V1.exe.config
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\C1.WPF.4.6.2.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\log4net.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWEVENTLOG_V1.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWEVENTLOG_V1.exe.config
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\MySql.Data.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWDBMS_V1.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWDBMS_V1.exe.config
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWLib.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWLib.exe.config
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\Google.Protobuf.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\Google.Protobuf.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\BouncyCastle.Crypto.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\System.Memory.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\C1.WPF.FlexGrid.4.6.2.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\System.Buffers.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\K4os.Compression.LZ4.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\K4os.Hash.xxHash.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\System.Numerics.Vectors.xml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\ar\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\cs\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\da\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\de\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\el\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\es\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\fi\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\fr\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\he\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\it\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\ja\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\ko\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\nl\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\no\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\pl\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\pt\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\ro\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\ru\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\sk\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\sv\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\tr\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\zh\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\bin\Release\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.csproj.AssemblyReference.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.csproj.SuggestedBindingRedirects.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\MainWindow.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\App.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS_MarkupCompile.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS_MarkupCompile.lref
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\MainWindow.baml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.g.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\DoOneDaqSystemKSx3267.FormDaqMain.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.Properties.Resources.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.csproj.GenerateResource.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.csproj.CoreCompileInputs.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.csproj.CopyComplete
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.exe
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\KS\obj\Release\KS.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\KS.exe.config
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\KS.exe
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\KS.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\C1.WPF.4.6.2.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWLOGIN_V1.exe
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\log4net.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWEVENTLOG_V1.exe
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\MySql.Data.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWDBMS_V1.exe
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWLib.exe
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\Google.Protobuf.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\ZstdNet.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\BouncyCastle.Crypto.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\System.Memory.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\C1.WPF.FlexGrid.4.6.2.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\System.Buffers.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\K4os.Compression.LZ4.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\K4os.Hash.xxHash.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\System.Numerics.Vectors.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWLOGIN_V1.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWLOGIN_V1.exe.config
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\C1.WPF.4.6.2.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\log4net.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWEVENTLOG_V1.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWEVENTLOG_V1.exe.config
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\MySql.Data.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWDBMS_V1.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWDBMS_V1.exe.config
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWLib.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWLib.exe.config
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\Google.Protobuf.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\Google.Protobuf.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\BouncyCastle.Crypto.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\System.Memory.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\C1.WPF.FlexGrid.4.6.2.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\System.Buffers.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\K4os.Compression.LZ4.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\K4os.Hash.xxHash.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\System.Numerics.Vectors.xml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\ar\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\cs\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\da\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\de\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\el\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\es\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\fi\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\fr\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\he\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\it\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\ja\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\ko\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\nl\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\no\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\pl\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\pt\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\ro\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\ru\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\sk\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\sv\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\tr\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\zh\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\bin\Release\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.csproj.SuggestedBindingRedirects.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\MainWindow.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\App.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\MainWindow.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\DoOneDaqSystemKSx3267.FormDaqMain.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.csproj.CopyComplete
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.exe
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\KS\obj\Release\KS.pdb

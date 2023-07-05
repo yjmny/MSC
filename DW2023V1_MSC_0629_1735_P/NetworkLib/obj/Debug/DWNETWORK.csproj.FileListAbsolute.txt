@@ -1,0 +1,1794 @@
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\DWSMARTICT_481\DWSMARTICT_V1.1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\DWSMARTICT_481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\dw_smartict\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230131\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230201\개발소스\dwsmartict_sln481\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (2)\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230202\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_2\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1 (3)\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_4\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1622\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230206\DW2023V1_1650\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1650 (2)\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230207\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1525\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230208\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1740_0208 (2)\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1800_m\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230209\DW2023V1_1057\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1444\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1115\DWNETWORK\obj\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\bin\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\bin\Debug\DWNETWORK.pdb
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\Themes\Generic.baml
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.dll
+C:\Users\user\Desktop\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1625\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230220\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1740\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230221\DW2023V1_1750\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1520\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230222\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\투습도 시험기\투습도 코드\DW2023V1_1658\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230223\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_0830\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230227\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_0227_1735\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230228\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1458\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1_1132_m\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1540\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230306\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1700\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230307\DW2023V1_1730_m\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1535_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_230308_2100\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1_230308_0100\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1123\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230309\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1500\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1440 (2)\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230313\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_0313_1136\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1512\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1709\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1856\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230315\DW2023V1_1120\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1830\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1135\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1602_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1853_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230317\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1327_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1025_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1557_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1750_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1105_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1424_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1808_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1714_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230322\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_2227_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1330_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1502_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1640_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1237_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1150_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1350_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1100_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1515_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1552_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1650_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1413_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1635_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1141_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1335_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1536_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1700_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1026_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1338_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1438_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1548_0405_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\rndteam\validation_software\dwsmartict_sln481\230406\DW2023V1\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_230407_1000_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1814_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1323_m\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_WVP\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_SCT\DW2023V1_1254_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_SCT\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_230425\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\msc\230510\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1150_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0510_1725_m\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\msc\230511\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0512_1705_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0515_1729_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230516\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1300_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0517_1736_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0522_1557_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230522\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1340_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0523_1807_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0524_1425_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230525\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0525_1810_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1052_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230526\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0526_1630_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_0930_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0531_1306_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1134_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1343_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0601_1517_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0602_1026_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0616_1528_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0619_0930_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230620\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P (2)\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0620_1500_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0622_1300_M\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0623_1836_M\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0627_1319_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1034_p\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0628_1528_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1111_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1452_P\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\bin\Debug\DWNETWORK.pdb
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.AssemblyReference.cache
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.cache
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK_MarkupCompile.lref
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\Themes\Generic.baml
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.g.resources
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.Properties.Resources.resources
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.GenerateResource.cache
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.csproj.CoreCompileInputs.cache
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.dll
+D:\dev\0003_msc\230629\DW2023V1_MSC\DWNETWORK\obj\Debug\DWNETWORK.pdb

@@ -1,0 +1,36 @@
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\obj\Debug\EventLog.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\obj\Debug\EventLog.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\obj\Debug\EventLog.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\obj\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\EventLog\obj\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\obj\Debug\EventLog.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\obj\Debug\EventLog.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\obj\Debug\EventLog.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\obj\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\EventLog\obj\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\obj\Debug\EventLog.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\obj\Debug\EventLog.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\obj\Debug\EventLog.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\obj\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\EventLog\obj\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\obj\Debug\EventLog.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\obj\Debug\EventLog.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\obj\Debug\EventLog.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\obj\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\EventLog\obj\Debug\EventLog.pdb

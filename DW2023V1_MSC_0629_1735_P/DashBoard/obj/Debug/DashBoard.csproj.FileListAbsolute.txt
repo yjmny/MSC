@@ -1,0 +1,308 @@
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\DashBoard.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\DashBoard.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\DashBoard.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.Win.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.Win.C1DX.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.Win.C1FlexGrid.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.Win.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.Win.C1DX.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.Win.C1FlexGrid.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.DashboardPage.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.dll.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1705_P\DashBoard\obj\Debug\DashBoard.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\DashBoard.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\DashBoard.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\DashBoard.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.Win.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.Win.C1DX.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.Win.C1FlexGrid.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.Win.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.Win.C1DX.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.Win.C1FlexGrid.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.DashboardPage.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.dll.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC\DashBoard\obj\Debug\DashBoard.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\DashBoard.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\DashBoard.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\DashBoard.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.Win.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.Win.C1DX.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.Win.C1FlexGrid.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.Win.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.Win.C1DX.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.Win.C1FlexGrid.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.DashboardPage.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.dll.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P (2)\DashBoard\obj\Debug\DashBoard.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\DashBoard.dll.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\DashBoard.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\DashBoard.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.Win.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.Win.C1DX.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.Win.C1FlexGrid.4.8.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\DBMS_V1.exe
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\NetworkLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\log4net.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\EventLog.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.WPF.FlexGrid.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\MySql.Data.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\DwLib.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.WPF.4.6.2.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\Google.Protobuf.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\ZstdNet.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\BouncyCastle.Crypto.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\System.Memory.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\System.Buffers.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\K4os.Compression.LZ4.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\K4os.Hash.xxHash.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\System.Numerics.Vectors.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\DBMS_V1.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\DBMS_V1.exe.config
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.Win.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.Win.C1DX.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.Win.C1FlexGrid.4.8.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\NetworkLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\log4net.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\EventLog.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.WPF.FlexGrid.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\MySql.Data.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\DwLib.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\C1.WPF.4.6.2.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\Google.Protobuf.pdb
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\Google.Protobuf.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\BouncyCastle.Crypto.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\System.Memory.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\System.Buffers.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\K4os.Compression.LZ4.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\K4os.Hash.xxHash.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\System.Numerics.Vectors.xml
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.csproj.AssemblyReference.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.DashboardPage.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.dll.licenses
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.dll
+D:\DWSMARTICT_MSC\DW2023V1_MSC_0629_1735_P\DashBoard\obj\Debug\DashBoard.pdb
