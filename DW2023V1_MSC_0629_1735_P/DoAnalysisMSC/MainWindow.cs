@@ -520,6 +520,8 @@ namespace DoAnalysisMSC
             this.Hide();
 
             CallLoginWindow(ref mbid);
+
+            MessageBox.Show("hello");
         }
 
         private readonly AnalyzeWriteLog cAwlog = new AnalyzeWriteLog();
