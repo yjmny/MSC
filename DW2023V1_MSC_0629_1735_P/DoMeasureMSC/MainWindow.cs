@@ -1027,6 +1027,17 @@ namespace DoMeasureMSC
             LiveTime.Start();
         }
 
+        private void ShowCurTime1()
+        {
+            var LiveTime = new DispatcherTimer()
+            {
+                Interval = TimeSpan.FromSeconds(1)
+            };
+
+            LiveTime.Tick += Timer_Tick;
+            LiveTime.Start();
+        }
+
         private void Timer_Tick(object sender, EventArgs e)
         {
             tbxLiveTime.Text = DateTime.Now.ToString("yyyy-MM-dd  HH:mm");
