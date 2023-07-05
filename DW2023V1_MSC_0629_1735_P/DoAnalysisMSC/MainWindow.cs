@@ -544,7 +544,12 @@ namespace DoAnalysisMSC
             this.Hide();
 
             CallLoginWindow(ref mbid);
+
+
+            MessageBox.Show("hello");
+
             this.button2.BackColor = Color.Aquamarine;
+
         }
 
         private readonly AnalyzeWriteLog cAwlog = new AnalyzeWriteLog();
