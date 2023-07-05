@@ -53,6 +53,8 @@ namespace DoAnalysisMSC
             this.btnlogout = new System.Windows.Forms.Button();
             this.tbxMemberlevel = new System.Windows.Forms.Label();
             this.tbxMemberId = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.pnTitle.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbLogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
@@ -90,11 +92,11 @@ namespace DoAnalysisMSC
             // lblTitle
             // 
             this.lblTitle.AutoSize = true;
-            this.lblTitle.Font = new System.Drawing.Font("Noto Sans", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.White;
             this.lblTitle.Location = new System.Drawing.Point(39, 6);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(115, 21);
+            this.lblTitle.Size = new System.Drawing.Size(113, 15);
             this.lblTitle.TabIndex = 4;
             this.lblTitle.Text = "MainWindow Label";
             // 
@@ -292,6 +294,7 @@ namespace DoAnalysisMSC
             // 
             // panel4
             // 
+            this.panel4.Controls.Add(this.button2);
             this.panel4.Controls.Add(this.panel2);
             this.panel4.Location = new System.Drawing.Point(3, 328);
             this.panel4.Name = "panel4";
@@ -445,12 +448,31 @@ namespace DoAnalysisMSC
             this.tbxMemberId.Text = "label2";
             this.tbxMemberId.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(0, 0);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(39, 93);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(136, 51);
+            this.button2.TabIndex = 26;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
             // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1920, 1040);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.pnTitle);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -511,6 +533,8 @@ namespace DoAnalysisMSC
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button1;
         //================================================================================================================================
 
 
@@ -520,6 +544,7 @@ namespace DoAnalysisMSC
             this.Hide();
 
             CallLoginWindow(ref mbid);
+            this.button2.BackColor = Color.Aquamarine;
         }
 
         private readonly AnalyzeWriteLog cAwlog = new AnalyzeWriteLog();
