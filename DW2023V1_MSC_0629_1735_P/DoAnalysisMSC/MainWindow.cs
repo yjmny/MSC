@@ -609,7 +609,11 @@ namespace DoAnalysisMSC
             mIns = this;
 
             //string sql = $"SELECT divlevel FROM tbl_member WHERE tbl_member.id =\"{mbid}\" ";
+
             string sql = $"SELECT divlevel FROM tbl_reqmember WHERE tbl_reqmember.id =\"{mbid}\" ";
+
+            string sql = $"SELECT divlevel FROM tbl_reqmember WHERE tbl_member.id =\"{mbid}\" ";
+
 
             Dictionary<string, string> row = cMysqlDto.SelectSql2(sql, "divlevel")[0];
             if (row != null)
