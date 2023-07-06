@@ -670,16 +670,31 @@ namespace DoAnalysisMSC
         private void LabelColorSettings(ref System.Windows.Forms.Label label)
         {
             string strOk = "GOOD";
-            //string strFail = "NG";
-            if (label.Text.ToUpper().Trim().Equals(strOk))
+            string strFail = "Good";
+
+            if (CommonClass.IsDeviceCheckOn == true)
             {
-                label.ForeColor = ColorTranslator.FromHtml("#FF39C445");
+                lblStatuDB.Text = CommonClass.IsDBCtrlConn10 ? strOk : strFail;
+
             }
             else
             {
-                label.ForeColor = ColorTranslator.FromHtml("#FFE85454");
+                lblStatuDB.Text = CommonClass.IsDBCtrlConn10 ? strOk : strFail;
             }
-            label.Refresh();
+
+            //Color set
+   
+            //string strOk = "GOOD";
+            ////string strFail = "NG";
+            //if (label.Text.ToUpper().Trim().Equals(strOk))
+            //{
+            //    label.ForeColor = ColorTranslator.FromHtml("#FF39C445");
+            //}
+            //else
+            //{
+            //    label.ForeColor = ColorTranslator.FromHtml("#FFE85454");
+            //}
+            //label.Refresh();
         }
 
         private void IntializeCustomizingLoadingWindow()
