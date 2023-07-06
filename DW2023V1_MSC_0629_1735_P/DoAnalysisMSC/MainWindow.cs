@@ -568,13 +568,48 @@ namespace DoAnalysisMSC
                 return true;
             }
         }
+        private bool CallLoginWindow1(ref string mbid)
+        {
+            LoginLib.FrmLogin login1 = new LoginLib.FrmLogin(CommonClass.an_programId, mbid);
+            login1.ShowDialog();
+
+            if (Analysis.loginSuccess == false)
+            {
+                return false;
+            }
+            else
+            {
+                LoginAfterLoad(Analysis.mbno, Analysis.mbid);
+                cLog.Info(cLoginlog.LoginOk);
+                cLog.Info(cAwlog.AnalysisProgramStartEventLog);
+                return true;
+            }
+        }
+        private bool CallLoginWindow2(ref string mbid)
+        {
+            LoginLib.FrmLogin login1 = new LoginLib.FrmLogin(CommonClass.an_programId, mbid);
+            login1.ShowDialog();
+
+            if (Analysis.loginSuccess == false)
+            {
+                return false;
+            }
+            else
+            {
+                LoginAfterLoad(Analysis.mbno, Analysis.mbid);
+                cLog.Info(cLoginlog.LoginOk);
+                cLog.Info(cAwlog.AnalysisProgramStartEventLog);
+                return true;
+            }
+        }
+
 
         private void LoginAfterLoad(string mbno, string mbid)
         {
             mIns = this;
 
             //string sql = $"SELECT divlevel FROM tbl_member WHERE tbl_member.id =\"{mbid}\" ";
-            string sql = $"SELECT divlevel FROM tbl_reqmember WHERE tbl_member.id =\"{mbid}\" ";
+            string sql = $"SELECT divlevel FROM tbl_reqmember WHERE tbl_reqmember_sample.id =\"{mbid}\" ";
 
             Dictionary<string, string> row = cMysqlDto.SelectSql2(sql, "divlevel")[0];
             if (row != null)
